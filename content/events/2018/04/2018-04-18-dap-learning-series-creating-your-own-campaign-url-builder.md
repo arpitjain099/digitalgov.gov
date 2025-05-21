@@ -4,7 +4,7 @@
 slug: dap-learning-series-creating-your-own-campaign-url-builder
 title: "DAP Learning Series: Creating Your Own Campaign URL Builder"
 deck: ""
-summary: "This online event will cover how to create a campaign URL in Google Analtyics and how to effectively implement it."
+summary: "This online event will cover how to create a campaign URL in Google Analytics and how to effectively implement it."
 host: "Digital Analytics Program"
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/dap-learning-series-creating-your-own-campaign-url-builder-registration-42546399426

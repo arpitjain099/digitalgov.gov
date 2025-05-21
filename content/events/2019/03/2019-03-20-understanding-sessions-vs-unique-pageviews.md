@@ -4,7 +4,7 @@
 slug: understanding-sessions-vs-unique-pageviews
 title: "DAP Learning Series: Understanding When to Use Sessions vs. Unique Pageviews"
 deck: "Understanding When to Use Sessions vs. Unique Pageviews"
-summary: "In this webinar, Freddie Blicher, an analyst for the Digial Analytics Program, will discuss how to think about sessions and unique pageviews in reporting and content analysis."
+summary: "In this webinar, Freddie Blicher, an analyst for the Digital Analytics Program, will discuss how to think about sessions and unique pageviews in reporting and content analysis."
 host: "DAP"
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/understanding-sessions-vs-unique-pageviews-registration-58648809167

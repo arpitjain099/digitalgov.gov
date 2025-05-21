@@ -34,7 +34,7 @@ Everyone benefits from designs that are easier to see. People with different vis
 
 1. Provide good contrast. Make sure the contrast between the text and background is greater than or equal to 4.5:1 for small text and 3:1 for large text.
    - Test your color palette for accessible combinations with [Accessible Color Palette Builder](https://toolness.github.io/accessible-color-matrix/) or [Contrast Grid](http://contrast-grid.eightshapes.com/).
-   - Measure the contrast between text and backgound colors with tools like [WebAIM's Color Contrast Checker](http://webaim.org/resources/contrastchecker/) or a [Sketch plugin](https://github.com/getflourish/Sketch-Color-Contrast-Analyser).
+   - Measure the contrast between text and background colors with tools like [WebAIM's Color Contrast Checker](http://webaim.org/resources/contrastchecker/) or a [Sketch plugin](https://github.com/getflourish/Sketch-Color-Contrast-Analyser).
 2. Exceptions:
    - Color contrast ratio requirements apply to text and graphics that are essential for understanding the content or functionality. You don’t need to meet color contrast requirements for logos or incidental graphic elements.
    - Text that is part of a disabled control's state or disabled buttons does not need to meet the minimum contrast ratio.
@@ -89,7 +89,7 @@ Can you quickly understand the meaning of the page and complete your task?
 
 ### Steps to take
 
-1. Make sure key information is discernable at a glance. Design minimally and intentionally so that the user can get as much info as quickly as possible.
+1. Make sure key information is discernible at a glance. Design minimally and intentionally so that the user can get as much info as quickly as possible.
 2. Create a clear hierarchy of importance by placing items on the screen according to their relative level of importance. For example, place important actions at the top or bottom of the screen (reachable with shortcuts).
 3. Plan heading structure early. Ensure all content and design fits into a logical heading structure.
 4. Consider reading order. The reading order should be the same as the visual order.

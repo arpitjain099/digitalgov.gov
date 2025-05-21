@@ -70,7 +70,7 @@ And there should be some time for Q&A at the end!
 
 **Slide 11:** So what are the key improvements coming in USWDS 3.7.0?
 
-**Improved JAWS keyboard navigation in Date picker:** Now users of any screen reader, but particularly JAWS and NVDA, should see improvements to keyboard navigation in the Date picker's calender.
+**Improved JAWS keyboard navigation in Date picker:** Now users of any screen reader, but particularly JAWS and NVDA, should see improvements to keyboard navigation in the Date picker's calendar.
 
 **Improved keyboard navigation in Range slider:** Similarly, now range slider has more reliable keyboard navigation, particularly in VoiceOver.
 
@@ -174,7 +174,7 @@ PRA and Privacy
 
 **Slide 44:** And slide 44 has a different illustration. It's of some of the same components, but it's those operational steps that must be completed before a single research session can occur. And that's creating the research plan. Like, what are we doing? What are we trying to learn? Making sure that you can provide incentives so that you get inclusive and - inclusivity and equity in the process. Finding and screening participants, managing participants, getting consent, and scheduling sessions. Those are those steps that all need to be completed. And they're in a specific order. They can happen at different spots but all of these things have to happen as kind of prerequisites to actually doing that research.
 
-**Slide 45:** And this one is a dense one in terms of information, but we found that there are a number of barriers to research that happen here at TTS with product and service delivery teams. But also across government. These things are shared. And it's around at the highest level. Difficulty recruiting participants. How do we manage participants? What can we offer in terms of compensation or incentives so that we get full participation from folks, especialy those that are underrepresented or have other barriers to access? And
+**Slide 45:** And this one is a dense one in terms of information, but we found that there are a number of barriers to research that happen here at TTS with product and service delivery teams. But also across government. These things are shared. And it's around at the highest level. Difficulty recruiting participants. How do we manage participants? What can we offer in terms of compensation or incentives so that we get full participation from folks, especially those that are underrepresented or have other barriers to access? And
 then the scheduling and logistics. It's a manual and time consuming effort. And there are also tooling issues even across teams at TTS may use different tools that are available to them or not available to them. So we found these as barriers to research, but it's also opportunities for places for our team at 10x to explore and work with the TTS teams to see how can we figure out this operational aspect of research.
 
 **Slide 46:** And the bottom line is, it just takes a lot of time and effort to do research with the public. It can take weeks and months to prepare for doing research, and that timeline's often out of sync with projects and product development schedules. A lot of times teams need to know something soon, and getting the approvals and the processes completed to be able to connect with the public just don't match up.

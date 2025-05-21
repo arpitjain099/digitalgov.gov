@@ -5,7 +5,7 @@
 slug: us-government-open-innovation-summit-transformation-through-citizen-science-prize-competitions
 title: "U.S. Government Open Innovation Summit"
 deck: "Transformation Through Citizen Science and Prize Competitions"
-summary: "Presentations that highligh the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government"
+summary: "Presentations that highlight the potential and impact of crowdsourcing through citizen science and prize competitions in the U.S. government"
 host: "Federal Community of Practice for Crowdsourcing and Citizen Science (FedCCS), Challenges and Prizes Federal Community of Practice"
 event_organizer: "DigitalGov University"
 registration_url: https://www.eventbrite.com/e/us-government-open-innovation-summit-transformation-through-citizen-science-and-prizes-registration-61872290687

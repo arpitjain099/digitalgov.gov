@@ -9,7 +9,7 @@ aliases:
 
 ---
 
-The Site Scanning program maintains a number of automated processes that, together, consitute the entire project and seek to deliver useful data. The basic flow of these events are as follows:
+The Site Scanning program maintains a number of automated processes that, together, constitute the entire project and seek to deliver useful data. The basic flow of these events are as follows:
 
 - Each week, a comprehensive list of public federal .gov websites is assembled as the **Federal Website Index**.
   - [Direct download of the current Federal Website Index](https://raw.githubusercontent.com/GSA/federal-website-index/main/data/site-scanning-target-url-list.csv).

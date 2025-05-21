@@ -51,7 +51,7 @@ This afternoon event is an opportunity for API practitioners from across federal
 
 _Suggest others [here](https://github.com/18F/wg-api/issues/13)_
 
-#### Relevant News to Hightlight
+#### Relevant News to Highlight
 
 * [VA API Standards](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=4022)
 * [USPS OIG Report](https://www.uspsoig.gov/document/application-programming-interface-strategy)

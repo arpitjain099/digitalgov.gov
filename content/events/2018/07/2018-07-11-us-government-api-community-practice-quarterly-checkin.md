@@ -59,7 +59,7 @@ Virtual:  Will send to registrants
 
 _Suggest others [here](https://github.com/18F/wg-api/issues/13)_
 
-#### Relevant News to Hightlight 
+#### Relevant News to Highlight 
 
 * [CMS Blue Button Developer 2.0 Conference](https://bluebutton.cms.gov/bb2dc18/)
 * [Singapore's adoption of a government-wide API system](https://www.programmableweb.com/news/how-singapore-will-run-country-using-apis/else-where-web-case-study/2018/06/24)
